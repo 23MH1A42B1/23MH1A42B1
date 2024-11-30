@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=23mh1a42b1" alt="23mh1a42b1" /></a> </p>
 
 - 🌱 I’m currently learning **machine learning**
-
+  
 - 📫 How to reach me **nadipenamurali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
