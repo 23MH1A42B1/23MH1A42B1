@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=23mh1a42b1&show_icons=true&locale=en" alt="23mh1a42b1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=23mh1a42b1&" alt="23mh1a42b1" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=murali&theme=dark)](https://git.io/streak-stats)
+
