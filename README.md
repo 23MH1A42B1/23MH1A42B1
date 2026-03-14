@@ -30,7 +30,7 @@
 - 🤝 I'm looking for help with **advanced ML models and scalable data pipelines**
 - 🌱 I'm currently learning **Full Stack Development, Machine Learning, and Data Analytics**
 - 💬 Ask me about **Python, SQL, Data Analysis, and Web Development**
-- 📍 Based in **Andhra Pradesh, India 🇮🇳**
+- 📍 Based in **Kakinada, Andhra Pradesh, India 🇮🇳**
 - ⚡ Fun fact: **I enjoy turning data into insights and building intelligent applications**
 
 ---
@@ -50,6 +50,16 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=23mh1a42b1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Stats
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=23mh1a42b1&limit=5&theme=github_dark&combine_all_yearly_contributions=true" width="55%"/>
 
 </div>
 
@@ -95,6 +105,15 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=23mh1a42b1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
 
 ---
 
