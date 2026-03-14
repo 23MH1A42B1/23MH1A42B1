@@ -27,9 +27,8 @@
 
 ```yaml
 name     : Murali Nadipena
-location : Kakinada, Andhra Pradesh 🇮🇳
+location : INDIA
 role     : Full Stack Developer & ML Enthusiast
-
 working_on  : Full Stack Development & AI-based Projects
 learning    : Machine Learning · Data Analytics · Scalable Pipelines
 collaborate : ML Models · Data Pipelines · Web Applications
@@ -98,16 +97,6 @@ fun_fact    : "I enjoy turning data into insights and building intelligent apps 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=23mh1a42b1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
 
 ---
 
