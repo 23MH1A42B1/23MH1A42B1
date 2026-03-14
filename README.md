@@ -27,17 +27,22 @@
 
 <div align="center">
 
-| 🔭 &nbsp;**WORKING ON** | 🌱 &nbsp;**LEARNING** |
-|:--|:--|
-| Full Stack Development & AI-based Projects | ML · Data Analytics · Scalable Systems |
+<img src="https://img.shields.io/badge/📍_Location-Kakinada%2C_India_🇮🇳-0d1117?style=for-the-badge&labelColor=161b22&color=161b22" />
+<img src="https://img.shields.io/badge/💼_Role-Full_Stack_Dev_%26_ML_Enthusiast-0d1117?style=for-the-badge&labelColor=161b22&color=161b22" />
 
-| 🤝 &nbsp;**COLLABORATE** | 💬 &nbsp;**ASK ME ABOUT** |
-|:--|:--|
-| ML Models · Data Pipelines · Web Apps | Python · SQL · Data Analysis · Web Dev |
+<br/><br/>
 
-| ⚡ &nbsp;**FUN FACT** | 📍 &nbsp;**LOCATION** |
-|:--|:--|
-| I enjoy turning raw data into real insights ✨ | Kakinada, Andhra Pradesh, India 🇮🇳 |
+<img src="https://img.shields.io/badge/🔭_Working_On-Full_Stack_%26_AI_Projects-58a6ff?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/🌱_Learning-ML_·_Analytics_·_Pipelines-3fb950?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🤝_Collaborate-ML_Models_·_Pipelines_·_Web_Apps-bc8cff?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img src="https://img.shields.io/badge/💬_Ask_Me-Python_·_SQL_·_Web_Dev-f0883e?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/⚡_Fun_Fact-Turning_raw_data_into_real_insights_✨-e3b341?style=for-the-badge&labelColor=0d1117&color=0d1117" />
 
 </div>
 
