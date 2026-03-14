@@ -30,7 +30,7 @@
 - 🤝 I'm looking for help with **advanced ML models and scalable data pipelines**
 - 🌱 I'm currently learning **Full Stack Development, Machine Learning, and Data Analytics**
 - 💬 Ask me about **Python, SQL, Data Analysis, and Web Development**
-- 📍 Based in **Kakinada, Andhra Pradesh, India 🇮🇳**
+- 📍 Based in **Andhra Pradesh, India 🇮🇳**
 - ⚡ Fun fact: **I enjoy turning data into insights and building intelligent applications**
 
 ---
@@ -95,15 +95,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=23mh1a42b1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)
-
-</div>
 
 ---
 
