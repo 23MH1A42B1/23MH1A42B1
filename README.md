@@ -25,47 +25,46 @@
 
 ## 👤 About Me
 
-<div align="center">
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/-%F0%9F%91%A4%20WHO%20AM%20I-0d1117?style=for-the-badge" /><br/><br/>
-      <b>Murali Nadipena</b><br/>
-      <sub>Full Stack Dev & ML Enthusiast</sub><br/><br/>
-      <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-0d1117?style=flat-square&logo=googlemaps&logoColor=58a6ff"/>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/🔭%20WORKING%20ON-58a6ff?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>Full Stack Development & AI-based projects</b>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/-%F0%9F%94%AD%20WORKING%20ON-0d1117?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Full%20Stack-Development-58a6ff?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/AI%20Based-Projects-bc8cff?style=flat-square"/>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/🌱%20LEARNING-3fb950?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>ML, Data Analytics & Scalable Systems</b>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/-%F0%9F%8C%B1%20LEARNING-0d1117?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Machine-Learning-3fb950?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/Data-Analytics-3fb950?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/Scalable-Pipelines-3fb950?style=flat-square"/>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/🤝%20COLLABORATE-bc8cff?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>ML Models, Data Pipelines, Web Apps</b>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/-%F0%9F%A4%9D%20COLLABORATE-0d1117?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/ML-Models-f0883e?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/Data-Pipelines-f0883e?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/Web-Applications-f0883e?style=flat-square"/>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/💬%20ASK%20ME%20ABOUT-f0883e?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>Python · SQL · Data Analysis · Web Dev</b>
     </td>
-    <td align="center" width="160">
-      <img src="https://img.shields.io/badge/-%F0%9F%92%AC%20ASK%20ME-0d1117?style=for-the-badge" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-★★★★★-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/><br/><br/>
-      <img src="https://img.shields.io/badge/SQL-★★★★★-4479A1?style=flat-square&logo=mysql&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Web%20Dev-★★★★☆-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-e3b341?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>I enjoy turning raw data into real insights</b>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://img.shields.io/badge/📍%20LOCATION-f85149?style=flat-square&labelColor=0d1117&color=0d1117" />
+      <br/>
+      <b>Kakinada, Andhra Pradesh, India 🇮🇳</b>
     </td>
   </tr>
 </table>
-
-<br/>
-
-> 💡 **Fun Fact —** *I enjoy turning raw data into insights and building intelligent applications that solve real problems* ✨
-
-</div>
 
 ---
 
