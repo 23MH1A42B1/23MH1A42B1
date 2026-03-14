@@ -25,46 +25,21 @@
 
 ## 👤 About Me
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/🔭%20WORKING%20ON-58a6ff?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>Full Stack Development & AI-based projects</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/🌱%20LEARNING-3fb950?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>ML, Data Analytics & Scalable Systems</b>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/🤝%20COLLABORATE-bc8cff?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>ML Models, Data Pipelines, Web Apps</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/💬%20ASK%20ME%20ABOUT-f0883e?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>Python · SQL · Data Analysis · Web Dev</b>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/⚡%20FUN%20FACT-e3b341?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>I enjoy turning raw data into real insights</b>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://img.shields.io/badge/📍%20LOCATION-f85149?style=flat-square&labelColor=0d1117&color=0d1117" />
-      <br/>
-      <b>Kakinada, Andhra Pradesh, India 🇮🇳</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🔭 &nbsp;**WORKING ON** | 🌱 &nbsp;**LEARNING** |
+|:--|:--|
+| Full Stack Development & AI-based Projects | ML · Data Analytics · Scalable Systems |
+
+| 🤝 &nbsp;**COLLABORATE** | 💬 &nbsp;**ASK ME ABOUT** |
+|:--|:--|
+| ML Models · Data Pipelines · Web Apps | Python · SQL · Data Analysis · Web Dev |
+
+| ⚡ &nbsp;**FUN FACT** | 📍 &nbsp;**LOCATION** |
+|:--|:--|
+| I enjoy turning raw data into real insights ✨ | Kakinada, Andhra Pradesh, India 🇮🇳 |
+
+</div>
 
 ---
 
